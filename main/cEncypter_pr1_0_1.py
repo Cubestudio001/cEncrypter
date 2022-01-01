@@ -36,6 +36,7 @@ while True:
                 else:
                     break
             if dc_type == 'str':
+                operate = input("请输入内容：")
                 break
 
         while True:        
